@@ -1,0 +1,3 @@
+android sign utility for signing update.zip files
+USAGE:
+signer.jar update.zip signed_update.zip
